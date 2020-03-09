@@ -1,0 +1,72 @@
+# query feeds
+"query:All Unread:unread = \"yes\""
+
+# LT blogs
+http://feeds.feedburner.com/technologijos-be-spaudos-pranesimu?format=xml "~Technologijos.lt" Lithuanian
+https://www.jarmalavicius.lt/feeds/feeds.rss "~Jarmalavicius.lt" Lithuanian
+http://feeds.feedburner.com/Originalas?format=xml "~Topzone.lt" Lithuanian
+http://www.radiocool.lt/feed/ "~Radiocool.lt" Lithuanian
+https://www.valtininkas.lt/feed "~Valtininkas.lt" Lithuanian
+http://feeds.feedburner.com/Rokiskis "~Rokiskis.lt" Lithuanian
+http://cybersig.blogspot.com/feeds/posts/default "~Cybersig" Lithuanian
+http://aras-p.info/atom.xml "~Aras Pranckevičius" Lithuanian
+
+# Technology
+http://www.toptal.com/blog.rss "~Toptal" Tech
+http://tangledhelix.com/atom.xml "~Tangledhelix.com" Tech
+http://nvie.com/feed "~Nvie.com" Tech
+http://feeds.macosxtips.co.uk/macosxtips "~MacOs Tips" Tech
+http://feeds.feedburner.com/connectnothing "~Connect Nothing" Tech
+http://feeds.feedburner.com/warpspire "~Warpspire" Tech
+http://corte.si/rss.xml "~Aldo Cortesi" Tech
+http://www.joelonsoftware.com/rss.xml "~Joel On Software" Tech
+http://blog.millermedeiros.com/feed/ "~Miller Medeiros" Tech
+http://baus.net/atom.xml "~Baus" Tech
+https://blog.alexmaccaw.com/ "~Clearbit CEO" Tech
+http://williamdurand.fr/atom.xml "~William Durand" Tech
+http://statico.github.com/atom.xml "~Statico" Tech
+http://feeds.feedburner.com/amixdk "~Hacking and Gonzo" Tech
+http://feeds.feedburner.com/codinghorror/ "~Coding Horror" Tech
+http://feeds2.feedburner.com/Command-line-fu "~Command line Tips" Tech
+http://dtrace.org/blogs/brendan/feed/ "~DTrace" Tech
+http://hugogiraudel.com/rss/ "~Hugo Giraudel" Tech
+http://feeds.feedburner.com/RubyRedBricks '~Ruby Red Bricks' Tech
+http://responsivedesignweekly.com/feed/ "~Responsive Design Weekly" Tech
+http://feeds.feedburner.com/thesassway "~The Sass way" Tech
+http://feeds.feedburner.com/SimpleA11Y "~Web Accessibility" Tech
+http://feeds.feedburner.com/csswizardrycom "~CSS Wizard" Tech
+http://fhtr.blogspot.com/feeds/posts/default "~Fhtr" Tech
+http://feeds.feedburner.com/24ways "~24 ways" Tech
+http://feeds.feedburner.com/JohnResig "~John Resig" Tech
+http://blog.patrickmeenan.com/feeds/posts/default "~Patric Meenan" Tech
+http://feeds.feedburner.com/paul-irish "~Paul Irish" Tech
+http://nikhilism.com/index.xml "~Nikhils" Tech
+http://amir.rachum.com/feed.xml "~Amir Rachum" Tech
+http://jvns.ca/atom.xml "~Julia Evans" Tech
+http://radek.io/rss.xml "~Radek Pazdera" Tech
+http://charlesleifer.com/blog/rss/ "~Charles Leifer" Tech
+http://troydm.github.io/atom.xml "~Troydm" Tech
+https://matt.sh/.rss "~Change is" Tech
+http://panavtec.me/feed/ "~Christian Pandero" Tech
+http://zulko.github.io/atom.xml "~Zulko" Tech
+http://notes.ericjiang.com/feed "~Eric Notes" Tech
+http://samsaffron.com/posts.rss "~Sam Saffron" Tech
+https://medium.com/feed/@wilfredspringer "~Wilfred Springer" Tech
+http://rmurphey.com/atom.xml "~RMurphey" Tech
+http://googletesting.blogspot.com/feeds/posts/default "~Google Testing" Tech
+http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots "~Giant Robots" Tech
+http://ariya.ofilabs.com/feed "~Ariya" Tech
+http://zserge.com/rss.xml "~Zserge" Tech
+
+# Game Development
+http://andrewrussell.net/feed/ "~Andrew Russell" GameDev
+http://gamesfromwithin.com/feed "~Games from within" GameDev
+http://games.greggman.com/game/feed/ "~Greg Gman" GameDev
+
+# Fun
+http://feeds.feedburner.com/Explosm "~Explosm" Fun
+
+# SEO
+http://blog.ahrefs.com/?feed=rss2 "~Ahrefs" SEO
+http://backlinko.com/feed "~Backlinko" SEO
+https://detailed.com/feed/ "~Detailed" SEO
