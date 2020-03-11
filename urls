@@ -30,7 +30,7 @@ http://feeds.feedburner.com/codinghorror/ "~Coding Horror" Tech
 http://feeds2.feedburner.com/Command-line-fu "~Command line Tips" Tech
 http://dtrace.org/blogs/brendan/feed/ "~DTrace" Tech
 http://hugogiraudel.com/rss/ "~Hugo Giraudel" Tech
-http://feeds.feedburner.com/RubyRedBricks '~Ruby Red Bricks' Tech
+http://feeds.feedburner.com/RubyRedBricks "~Ruby Red Bricks" Tech
 http://responsivedesignweekly.com/feed/ "~Responsive Design Weekly" Tech
 http://feeds.feedburner.com/thesassway "~The Sass way" Tech
 http://feeds.feedburner.com/SimpleA11Y "~Web Accessibility" Tech
@@ -70,3 +70,11 @@ http://feeds.feedburner.com/Explosm "~Explosm" Fun
 http://blog.ahrefs.com/?feed=rss2 "~Ahrefs" SEO
 http://backlinko.com/feed "~Backlinko" SEO
 https://detailed.com/feed/ "~Detailed" SEO
+
+# Topics
+https://hnrss.org/newest?q=Django "~Django HN" Django
+https://dev.to/feed/tag/django "~Django Dev.to" Django
+https://hnrss.org/newest?q=Rails "~Rails HN" Rails
+https://dev.to/feed/tag/rails "~Rails Dev.to" Rails
+https://hnrss.org/newest?q=Vue "~Vue HN" Vue
+https://dev.to/feed/tag/vue "~Vue Dev.to" Vue
